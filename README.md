@@ -19,5 +19,5 @@ porém eles não conseguem saber os HORÁRIOS disponíveis que eu tenho.
 
 
 ##### 📒 Notas
-📌 Entidades à nivel de código podem não ser as mesmas entidades à nível de banco de dados. Entidades USUÁRIO e ENDERESSOS no banco pode possuir a mesma entidade USUÁRIO à nível de código.
+📌 Entidades à nivel de código podem não ser as mesmas entidades à nível de banco de dados. Entidades USUÁRIO e ENDEREÇOS no banco pode possuir a mesma entidade USUÁRIO à nível de código.
 📌 As regras de negócio podem ser atreladas a uma entidade ou a um caso de uso.
